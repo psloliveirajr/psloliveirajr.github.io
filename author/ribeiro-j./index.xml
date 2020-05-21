@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RIBEIRO, J. | Paulo S. L. Oliveira Jr.</title>
-    <link>/author/ribeiro-j./</link>
-      <atom:link href="/author/ribeiro-j./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://psloliveirajr.github.io/author/ribeiro-j./</link>
+      <atom:link href="https://psloliveirajr.github.io/author/ribeiro-j./index.xml" rel="self" type="application/rss+xml" />
     <description>RIBEIRO, J.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2020 18:57:29 +0000</lastBuildDate>
     <image>
-      <url>/img/static/img/avatar.jpg</url>
+      <url>https://psloliveirajr.github.io/img/static/img/avatar.jpg</url>
       <title>RIBEIRO, J.</title>
-      <link>/author/ribeiro-j./</link>
+      <link>https://psloliveirajr.github.io/author/ribeiro-j./</link>
     </image>
     
     <item>
       <title>Long-range correlation studies in deep earthquakes global series</title>
-      <link>/publication/preprint/</link>
+      <link>https://psloliveirajr.github.io/publication/preprint/</link>
       <pubDate>Sun, 12 Apr 2020 18:57:29 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://psloliveirajr.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     

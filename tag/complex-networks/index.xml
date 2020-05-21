@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Complex networks | Paulo S. L. Oliveira Jr.</title>
-    <link>/tag/complex-networks/</link>
-      <atom:link href="/tag/complex-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://psloliveirajr.github.io/tag/complex-networks/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/complex-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Complex networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2020 18:57:29 +0000</lastBuildDate>
     <image>
-      <url>/img/static/img/avatar.jpg</url>
+      <url>https://psloliveirajr.github.io/img/static/img/avatar.jpg</url>
       <title>Complex networks</title>
-      <link>/tag/complex-networks/</link>
+      <link>https://psloliveirajr.github.io/tag/complex-networks/</link>
     </image>
     
     <item>
       <title>Long-range correlation studies in deep earthquakes global series</title>
-      <link>/publication/preprint/</link>
+      <link>https://psloliveirajr.github.io/publication/preprint/</link>
       <pubDate>Sun, 12 Apr 2020 18:57:29 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://psloliveirajr.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Towards Evidence of Long-Range Correlations in Shallow Seismic Activities</title>
-      <link>/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity._xbmsp/</link>
+      <link>https://psloliveirajr.github.io/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity._xbmsp/</link>
       <pubDate>Sat, 15 Jun 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity._xbmsp/</guid>
+      <guid>https://psloliveirajr.github.io/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity._xbmsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: On the Agreement Between Small-World-Like OFC Model and Real Earthquakes from Different Regions</title>
-      <link>/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</link>
+      <link>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</link>
       <pubDate>Thu, 03 Jan 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</guid>
+      <guid>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Towards Evidence of Long-Range Correlations in Shallow Seismic Activities</title>
-      <link>/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity/</link>
+      <link>https://psloliveirajr.github.io/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity/</link>
       <pubDate>Thu, 03 Jan 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity/</guid>
+      <guid>https://psloliveirajr.github.io/talk/towards_evidence_of_long-range_correlations_in_shallow_seismic_activity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Introdução de Características de Mundo Pequeno no Modelo Olami-Feder-Christensen</title>
-      <link>/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</link>
+      <link>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</link>
       <pubDate>Mon, 23 Oct 2017 10:00:00 +0000</pubDate>
-      <guid>/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</guid>
+      <guid>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: On the Agreement Between Small-World-Like OFC Model and Real Earthquakes from Different Regions</title>
-      <link>/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</link>
+      <link>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</link>
       <pubDate>Sun, 17 Sep 2017 18:00:00 +0000</pubDate>
-      <guid>/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</guid>
+      <guid>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Small-World Effects in Worldwide Seismic Events</title>
-      <link>/talk/small-world_effects_in_worldwide_seismic_events/</link>
+      <link>https://psloliveirajr.github.io/talk/small-world_effects_in_worldwide_seismic_events/</link>
       <pubDate>Sat, 03 Sep 2016 18:00:00 +0000</pubDate>
-      <guid>/talk/small-world_effects_in_worldwide_seismic_events/</guid>
+      <guid>https://psloliveirajr.github.io/talk/small-world_effects_in_worldwide_seismic_events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Complex Features in a Network of Worldwide Seismic Events</title>
-      <link>/talk/complex_features_in_a_network_of_worldwide_seismic_events/</link>
+      <link>https://psloliveirajr.github.io/talk/complex_features_in_a_network_of_worldwide_seismic_events/</link>
       <pubDate>Sun, 01 Nov 2015 17:00:00 +0000</pubDate>
-      <guid>/talk/complex_features_in_a_network_of_worldwide_seismic_events/</guid>
+      <guid>https://psloliveirajr.github.io/talk/complex_features_in_a_network_of_worldwide_seismic_events/</guid>
       <description></description>
     </item>
     

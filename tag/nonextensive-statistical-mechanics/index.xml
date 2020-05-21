@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonextensive statistical mechanics | Paulo S. L. Oliveira Jr.</title>
-    <link>/tag/nonextensive-statistical-mechanics/</link>
-      <atom:link href="/tag/nonextensive-statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://psloliveirajr.github.io/tag/nonextensive-statistical-mechanics/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/nonextensive-statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <description>Nonextensive statistical mechanics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2020 18:57:29 +0000</lastBuildDate>
     <image>
-      <url>/img/static/img/avatar.jpg</url>
+      <url>https://psloliveirajr.github.io/img/static/img/avatar.jpg</url>
       <title>Nonextensive statistical mechanics</title>
-      <link>/tag/nonextensive-statistical-mechanics/</link>
+      <link>https://psloliveirajr.github.io/tag/nonextensive-statistical-mechanics/</link>
     </image>
     
     <item>
       <title>Long-range correlation studies in deep earthquakes global series</title>
-      <link>/publication/preprint/</link>
+      <link>https://psloliveirajr.github.io/publication/preprint/</link>
       <pubDate>Sun, 12 Apr 2020 18:57:29 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://psloliveirajr.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
