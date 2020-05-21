@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GONCALVES, E. A. S. | Paulo S. L. Oliveira Jr.</title>
+    <link>https://psloliveirajr.github.io/author/goncalves-e.-a.-s./</link>
+      <atom:link href="https://psloliveirajr.github.io/author/goncalves-e.-a.-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>GONCALVES, E. A. S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psloliveirajr.github.io/img/static/img/avatar.jpg</url>
+      <title>GONCALVES, E. A. S.</title>
+      <link>https://psloliveirajr.github.io/author/goncalves-e.-a.-s./</link>
+    </image>
+    
+    <item>
+      <title>Temporal and spatial characteristics of the spread of COVID-19 in Rio de Janeiro state and city</title>
+      <link>https://psloliveirajr.github.io/publication/temporal_and_spatial_characteristics_of_the_spread_of_covid-19_in_rio_de_janeiro_state_and_city/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/publication/temporal_and_spatial_characteristics_of_the_spread_of_covid-19_in_rio_de_janeiro_state_and_city/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

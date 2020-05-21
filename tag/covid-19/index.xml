@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | Paulo S. L. Oliveira Jr.</title>
+    <link>https://psloliveirajr.github.io/tag/covid-19/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psloliveirajr.github.io/img/static/img/avatar.jpg</url>
+      <title>COVID-19</title>
+      <link>https://psloliveirajr.github.io/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Temporal and spatial characteristics of the spread of COVID-19 in Rio de Janeiro state and city</title>
+      <link>https://psloliveirajr.github.io/publication/temporal_and_spatial_characteristics_of_the_spread_of_covid-19_in_rio_de_janeiro_state_and_city/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/publication/temporal_and_spatial_characteristics_of_the_spread_of_covid-19_in_rio_de_janeiro_state_and_city/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
