@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computacional Model | Paulo S. L. Oliveira Jr.</title>
+    <link>https://psloliveirajr.github.io/tag/computacional-model/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/computacional-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computacional Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jan 2019 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psloliveirajr.github.io/media/static/img/avatar.jpg</url>
+      <title>Computacional Model</title>
+      <link>https://psloliveirajr.github.io/tag/computacional-model/</link>
+    </image>
+    
+    <item>
+      <title>Poster: On the Agreement Between Small-World-Like OFC Model and Real Earthquakes from Different Regions</title>
+      <link>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</link>
+      <pubDate>Thu, 03 Jan 2019 10:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions_netscix2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Introduction of Small World Characteristics in the Olami-Feder-Christensen Model</title>
+      <link>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</link>
+      <pubDate>Mon, 23 Oct 2017 10:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

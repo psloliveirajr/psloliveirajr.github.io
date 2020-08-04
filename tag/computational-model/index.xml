@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Model | Paulo S. L. Oliveira Jr.</title>
+    <link>https://psloliveirajr.github.io/tag/computational-model/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/computational-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psloliveirajr.github.io/media/static/img/avatar.jpg</url>
+      <title>Computational Model</title>
+      <link>https://psloliveirajr.github.io/tag/computational-model/</link>
+    </image>
+    
+    <item>
+      <title>Poster: On the Agreement Between Small-World-Like OFC Model and Real Earthquakes from Different Regions</title>
+      <link>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</link>
+      <pubDate>Sun, 17 Sep 2017 18:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/talk/on_the_agreement_between_small-world-like_ofc_model_and_real_earthquakes_from_different_regions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
