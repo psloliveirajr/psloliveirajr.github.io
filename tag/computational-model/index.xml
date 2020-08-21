@@ -5,12 +5,20 @@
     <link>https://psloliveirajr.github.io/tag/computational-model/</link>
       <atom:link href="https://psloliveirajr.github.io/tag/computational-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2017 18:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy {2020}</copyright><lastBuildDate>Mon, 23 Oct 2017 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://psloliveirajr.github.io/media/static/img/avatar.jpg</url>
       <title>Computational Model</title>
       <link>https://psloliveirajr.github.io/tag/computational-model/</link>
     </image>
+    
+    <item>
+      <title>Poster: Introduction of Small World Characteristics in the Olami-Feder-Christensen Model</title>
+      <link>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</link>
+      <pubDate>Mon, 23 Oct 2017 10:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/talk/introducao_de_caracteristicas_de_mundo_pequeno_no_modelo_olami-feder-christensen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poster: On the Agreement Between Small-World-Like OFC Model and Real Earthquakes from Different Regions</title>
