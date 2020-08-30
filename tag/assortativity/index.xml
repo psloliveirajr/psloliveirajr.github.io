@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assortativity | Paulo S. L. Oliveira Jr.</title>
+    <link>https://psloliveirajr.github.io/tag/assortativity/</link>
+      <atom:link href="https://psloliveirajr.github.io/tag/assortativity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Assortativity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo S. L. Oliveira Jr.</copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psloliveirajr.github.io/media/static/img/avatar.jpg</url>
+      <title>Assortativity</title>
+      <link>https://psloliveirajr.github.io/tag/assortativity/</link>
+    </image>
+    
+    <item>
+      <title>Mixing Patterns in Worldwide Earthquake Networks</title>
+      <link>https://psloliveirajr.github.io/publication/mixing_patterns_in_worldwide_earthquake_networks/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://psloliveirajr.github.io/publication/mixing_patterns_in_worldwide_earthquake_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
